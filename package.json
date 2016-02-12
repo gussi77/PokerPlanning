@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-starter-kit",
+  "name": "PokerPlanning",
   "version": "0.0.1",
-  "description": "Yet another React/Redux Starter Kit",
+  "description": "Yet another PokerPlanning",
   "scripts": {
     "start": "babel-node server.js",
     "build": "rimraf dist && NODE_ENV=production webpack --config ./webpack.production.config.js --progress --profile --colors",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudmu/react-redux-starter-kit.git"
+    "url": "https://github.com/gussi77/PokerPlanning.git"
   },
   "keywords": [
     "react",
